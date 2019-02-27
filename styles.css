@@ -10,6 +10,6 @@ h1 {
   font-size: 100px;
 }
 
-li, img {
+.images {
   display: inline-block;
 }
